@@ -1,8 +1,9 @@
 <html>
-  <head> 
-    <title> Derrick Banks website </tittle>
-  </head>
   <body>
+  <article>
+   <header>
+    <title> Derrick Banks website </tittle>
+  </header>
   <h1>My experince with videogames</h1>
     <h2> My first videogame played </h2>
       <p> my favorite type of entertainment is defenietly videogames. videogames have been a thing since 1958 and i have been been playing since i was 7 years old.
@@ -55,4 +56,5 @@
               <tr>
                 <th>Apex Legends</th>
                 <th>7/10</th>
+ </article>
 </html>
